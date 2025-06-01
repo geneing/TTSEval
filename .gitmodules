@@ -22,3 +22,6 @@
 [submodule "kokoro"]
 	path = kokoro
 	url = https://github.com/hexgrad/kokoro.git
+[submodule "F5-TTS"]
+	path = F5-TTS
+	url = https://github.com/SWivid/F5-TTS.git
