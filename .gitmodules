@@ -1,0 +1,24 @@
+[submodule "MegaTTS3"]
+	path = MegaTTS3
+	url = https://github.com/bytedance/MegaTTS3.git
+[submodule "chatterbox"]
+	path = chatterbox
+	url = https://github.com/resemble-ai/chatterbox.git
+[submodule "Orpheus-TTS"]
+	path = Orpheus-TTS
+	url = https://github.com/canopyai/Orpheus-TTS.git
+[submodule "2cent-tts-onnx"]
+	path = 2cent-tts-onnx
+	url = https://github.com/thewh1teagle/2cent-tts-onnx.git
+[submodule "FireRedTTS"]
+	path = FireRedTTS
+	url = https://github.com/FireRedTeam/FireRedTTS.git
+[submodule "OuteTTS"]
+	path = OuteTTS
+	url = https://github.com/edwko/OuteTTS.git
+[submodule "tools/UTMOSv2"]
+	path = tools/UTMOSv2
+	url = https://github.com/sarulab-speech/UTMOSv2.git
+[submodule "kokoro"]
+	path = kokoro
+	url = https://github.com/hexgrad/kokoro.git
