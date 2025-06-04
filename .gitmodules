@@ -25,3 +25,9 @@
 [submodule "F5-TTS"]
 	path = F5-TTS
 	url = https://github.com/SWivid/F5-TTS.git
+[submodule "MeloTTS"]
+	path = MeloTTS
+	url = https://github.com/myshell-ai/MeloTTS.git
+[submodule "fish-speech"]
+	path = fish-speech
+	url = https://github.com/fishaudio/fish-speech.git
